@@ -1,2 +1,2 @@
-include setup.py license.txt readme.txt ChangeLog
+include setup.py license.txt readme.md ChangeLog
 include sqlautocode/*.py
