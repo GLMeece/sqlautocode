@@ -10,7 +10,7 @@ This is a slightly different approach to SqlSoup, that lets you use tables witho
     E-mail: chris@percious.com
 
     Simon Pamies (spamsch)
-    E-Mail: s.pamies at banality dot de
+    E-Mail: info at pamies dot de
 
 # Authors
 
